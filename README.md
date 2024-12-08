@@ -11,7 +11,7 @@ Getting Started:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/portfolio-website.git
+git clone (https://murugan2024fsd.github.io/Portfolio-simple-website/)
 Open index.html (Home page) or contact.html (Contact page) in your browser to view the website.
 Feel free to explore the website and reach out through the contact form on the Contact page!
 
